@@ -8,4 +8,4 @@ A Schelling's segregation model visualizer.
 
 ## License
 
-[MIT](https://github.com/wadiim/ttt/blob/master/LICENSE)
+[MIT](https://github.com/wadiim/smv/blob/master/LICENSE)
